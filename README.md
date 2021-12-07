@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Wellingtonian.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning fundamentals and Pyhton.
-- 💞️ I’m looking to collaborate on some projects.
-- 📫 Email.
+- 🌱 I’m currently learning JavaScript and React.
+- 💞️ I’m looking to collaborate on front end projects.
+- 📫 Email me.
 
 <!---
 Wellingtonian/Wellingtonian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
